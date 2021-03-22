@@ -1,8 +1,8 @@
 # shikimori-list
 
-<h1>Sorting voice actor roles by viewed on shikimori</h1>
-<ul>
-	<ol>Install the custom script manager. For example Violentmonkey.</ol>
-	<ol>Подключите jQuery. Для Violentmonkey <br>// @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js</ol>
-	<ol>Вставьте скрипт</ol>
-</ul>
+<h1>Sorting voice actor rlies by viewed on shikimori</h1>
+<ol>
+	<li>Install the custom script manager. For example Vilientmonkey.</li>
+	<li>Подключите jQuery. Для Vilientmonkey <br>// @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js</li>
+	<li>Вставьте скрипт</li>
+</ol>
